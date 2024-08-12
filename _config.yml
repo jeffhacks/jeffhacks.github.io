@@ -32,8 +32,8 @@ plugins:
   - jekyll-feed
 minima:
   skin: dark
-  # social_links:
-  #   - { platform: github,  user_url: "https://github.com/jeffhacks" }
+  social_links:
+    - { platform: github,  user_url: "https://github.com/jeffhacks" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
